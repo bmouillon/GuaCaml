@@ -1,4 +1,4 @@
 (executable
  (public_name GuaCaml)
- (name main)
- (libraries GuaCaml))
+ (name GuaCaml)
+ (libraries zarith))
